@@ -1,0 +1,21 @@
+<li class="nav-item language-switcher-inline">
+  {{ $currentLang := .Site.Language.Lang }}
+  {{ $relPath := .RelPermalink }}
+
+  {{ if hasPrefix $relPath "/en/" }}
+    {{ $newPath := replaceRE "^/en/" "/ru/" $relPath }}
+    <a class="nav-link d-inline-flex align-items-center mx-1" href="{{ $newPath }}" title="Switch to Russian">
+      <img src="/images/flags/ru.png" alt="Russian" width="24" height="auto" class="me-1"> RU
+    </a>
+  {{ else if hasPrefix $relPath "/ru/" }}
+    {{ $newPath := replaceRE "^/ru/" "/en/" $relPath }}
+    <a class="nav-link d-inline-flex align-items-center mx-1" href="{{ $newPath }}" title="Switch to English">
+      <img src="/images/flags/en.png" alt="English" width="24" height="auto" class="me-1"> US
+    </a>
+  {{ else }}
+    <!-- Для главной -->
+    <a class="nav-link d-inline-flex align-items-center mx-1" href="/ru/" title="Switch to Russian">
+      <img src="/images/flags/ru.png" alt="Russian" width="24" height="auto" class="me-1"> RU
+    </a>
+  {{ end }}
+</li>

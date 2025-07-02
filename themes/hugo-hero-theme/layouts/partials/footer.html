@@ -1,0 +1,49 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          {{ if .Site.Data.social }}
+            <ul class="social">
+              {{ range .Site.Data.social }}
+                <li>
+                  <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+                    <img width="20" height="20" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}">
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+
+          <!-- Получаем текущий язык -->
+          {{ $lang := .Site.Language.Lang }}
+          {{ if eq $lang "en" }}
+            <ul class="footer-menu">
+              <li><a href="{{ .Site.Home.RelPermalink }}">Homepage</a></li>
+              {{ with .Site.GetPage "contact" }}
+                <li><a href="{{ .RelPermalink }}">Contacts</a></li>
+              {{ end }}
+              <li class="copyright">© {{ now.Format "2006" }} {{ .Site.Title }}</li>
+            </ul>
+          {{ else if eq $lang "ru" }}
+            <ul class="footer-menu">
+              <li><a href="{{ .Site.Home.RelPermalink }}">Главная</a></li>
+              {{ with .Site.GetPage "contact" }}
+                <li><a href="{{ .RelPermalink }}">Контакты</a></li>
+              {{ end }}
+              <li class="copyright">© {{ now.Format "2006" }} {{ .Site.Title }}</li>
+            </ul>
+          {{ else }}
+            <ul class="footer-menu">
+              <li><a href="{{ .Site.Home.RelPermalink }}">Homepage</a></li>
+              {{ with .Site.GetPage "contact" }}
+                <li><a href="{{ .RelPermalink }}">Contacts</a></li>
+              {{ end }}
+              <li class="copyright">© {{ now.Format "2006" }} {{ .Site.Title }}</li>
+            </ul>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

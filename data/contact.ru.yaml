@@ -1,0 +1,27 @@
+email: 'tierracolada@gmail.com'
+phone: '+7911 910 9841'
+businessName: 'Hugo Serif'
+address: |
+  390509, Рязанская область, Рязанский р-н, с Льгово, Полевая ул, стр. 15, помещ. 5
+hours:
+  - day: Понедельник
+    open: 8:30
+    close: 17:00
+  - day: Вторник
+    open: 8:30
+    close: 17:00
+  - day: Среда
+    open: 8:30
+    close: 17:00
+  - day: Четверг
+    open: 8:30
+    close: 17:00
+  - day: Пятница
+    open: 8:30
+    close: 17:00
+  - day: Суббота
+    open: Закрыто
+    close:
+  - day: Воскресенье
+    open: Закрыто
+    close:

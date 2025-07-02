@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tierra Colada</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Tierra Colada</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DAS</title>
+      <link>http://localhost:1313/en/tags/das/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/das/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FWI</title>
+      <link>http://localhost:1313/en/tags/fwi/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/fwi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geophysics</title>
+      <link>http://localhost:1313/en/tags/geophysics/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/geophysics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil &amp; Gas</title>
+      <link>http://localhost:1313/en/tags/oil--gas/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/oil--gas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTM</title>
+      <link>http://localhost:1313/en/tags/rtm/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/rtm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seismic Exploration</title>
+      <link>http://localhost:1313/en/tags/seismic-exploration/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/seismic-exploration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSP</title>
+      <link>http://localhost:1313/en/tags/vsp/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/vsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oil and Gas</title>
+      <link>http://localhost:1313/en/tags/oil-and-gas/</link>
+      <pubDate>Tue, 01 Apr 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/oil-and-gas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seismic</title>
+      <link>http://localhost:1313/en/tags/seismic/</link>
+      <pubDate>Tue, 01 Apr 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/seismic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>App</title>
+      <link>http://localhost:1313/en/tags/app/</link>
+      <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drilling</title>
+      <link>http://localhost:1313/en/tags/drilling/</link>
+      <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/drilling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gui</title>
+      <link>http://localhost:1313/en/tags/gui/</link>
+      <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/gui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>http://localhost:1313/en/tags/visualization/</link>
+      <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/en/tags/web/</link>
+      <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/tags/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

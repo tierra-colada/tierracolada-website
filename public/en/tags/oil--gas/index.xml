@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oil &amp; Gas on Tierra Colada</title>
+    <link>http://localhost:1313/en/tags/oil--gas/</link>
+    <description>Recent content in Oil &amp; Gas on Tierra Colada</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/oil--gas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless Integration of Surface and Borehole Data</title>
+      <link>http://localhost:1313/en/work/vsp_model/</link>
+      <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/en/work/vsp_model/</guid>
+      <description>&lt;h2 id=&#34;modern-approach-to-seismic-data&#34;&gt;Modern Approach to Seismic Data&lt;/h2&gt;&#xA;&lt;p&gt;We modeled ideal conditions for studying salt intrusions using DAS capabilities: simultaneous surface and borehole recording.&lt;/p&gt;&#xA;&lt;h3 id=&#34;surface-seismic&#34;&gt;Surface seismic&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2201 sources at 100m spacing&lt;/li&gt;&#xA;&lt;li&gt;🔹 Receivers (50m, ±10km coverage)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;borehole-measurements-das&#34;&gt;Borehole measurements (DAS)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Continuous fiber optics (100-5000m)&lt;/li&gt;&#xA;&lt;li&gt;🔹 15m channel spacing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;joint-data-inversion&#34;&gt;Joint Data Inversion&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Automated first-break picking&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ First-arrival tomography&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ Full Waveform Inversion (FWI)&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ Reverse Time Migration (RTM)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;solutions-we-provide&#34;&gt;Solutions We Provide&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Intrusive body mapping&lt;/li&gt;&#xA;&lt;li&gt;✅ Gas hydrate detection&lt;/li&gt;&#xA;&lt;li&gt;✅ Permafrost studies&lt;/li&gt;&#xA;&lt;li&gt;✅ Velocity inversion zone analysis&lt;/li&gt;&#xA;&lt;li&gt;✅ Anisotropy investigations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,93 @@
+baseURL = 'https://example.org/'
+theme = 'hugo-hero-theme'
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-mobile.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Tierra Colada"
+
+  [params.homepage_meta_tags]
+    meta_og_type = "website"
+    meta_og_url = "https://tierra-colada.com"
+    meta_og_image = "https://tierra-colada.com/images/og-seismic-visualization.jpg"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@TierraColadaGeo"
+    meta_twitter_creator = "@TierraColadaGeo"
+
+[languages]
+  [languages.en]
+    title = "Tierra Colada"
+    languageName = "English"
+    weight = 1
+  [languages.ru]
+    title = "Тьерра Колада"
+    languageName = "Русский"
+    weight = 2
+  [languages.en.params.homepage_meta_tags]
+    meta_description = "TIERRA COLADA: Advanced subsurface imaging solutions using Full Waveform Inversion (FWI) and Reverse Time Migration (RTM) technologies for precise seismic data interpretation"
+    meta_og_title = "TIERRA COLADA | Cutting-Edge Seismic Imaging"
+    meta_og_description = "Innovative FWI and RTM technologies transforming raw seismic data into accurate subsurface models. Reduce exploration risks with our advanced imaging solutions"
+  [languages.ru.params.homepage_meta_tags]
+    meta_description = "TIERRA COLADA: построение точных сейсмических изображений с помощью технологий полноволноформовой инверсии (FWI) и миграции обратного времени (RTM). Сейсмическая разведка для нефтегазовой отрасли"
+    meta_og_title = "TIERRA COLADA | Высокоточные сейсмические изображения"
+    meta_og_description = "Технологии Full Waveform Inversion и Reverse Time Migration для интерпретации сейсмических данных. Снижаем риски при разведке месторождений"
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      name = "Services"
+      url = "/en/services/"
+        weight = 1
+    [[languages.en.menus.main]]
+        name = "Work"
+        url = "/en/work/"
+        weight = 2
+    [[languages.en.menus.main]]
+        name = "About"
+        url = "/en/about/"
+        weight = 3
+#    [[languages.en.menus.main]]
+#        name = "History"
+#        url = "/en/history/"
+#        weight = 3
+    [[languages.en.menus.main]]
+        name = "Contact"
+        url = "/en/contact/"
+        weight = 4
+  [languages.ru.menus]
+    [[languages.ru.menus.main]]
+      name = "Услуги"
+      url = "/ru/services/"
+        weight = 1
+    [[languages.ru.menus.main]]
+        name = "Портфолио"
+        url = "/ru/work/"
+        weight = 2
+    [[languages.ru.menus.main]]
+        name = "О нас"
+        url = "/ru/about/"
+        weight = 3
+#    [[languages.ru.menus.main]]
+#        name = "История"
+#        url = "/ru/history/"
+#        weight = 3
+    [[languages.ru.menus.main]]
+        name = "Контакты"
+        url = "/ru/contact/"
+        weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

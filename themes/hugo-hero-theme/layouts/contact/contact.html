@@ -1,0 +1,73 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-contact{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      {{ .Content }}
+
+      <!-- Получаем текущий язык -->
+      {{ $lang := .Site.Language.Lang }}
+      {{ $contact := index $.Site.Data (printf "contact.%s" $lang) }}
+
+      <!-- Выводим контакты -->
+      <ul>
+        {{ if $contact.phone }}
+          {{ if eq $lang "en" }}
+          <li><strong>Phone: </strong>{{ $contact.phone }}</li>
+          {{ else if eq $lang "ru" }}
+          <li><strong>Тел: </strong>{{ $contact.phone }}</li>
+          {{ else }}
+          <li><strong>Phone: </strong>{{ $contact.phone }}</li>
+          {{ end }}
+        {{ end }}
+        {{ if $contact.email }}
+        <li><strong>Email: </strong><a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></li>
+        {{ end }}
+        {{ if $contact.address }}
+          {{ if eq $lang "en" }}
+          <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ $contact.address }}</li>
+          {{ else if eq $lang "ru" }}
+          <li style="white-space: pre-wrap;"><strong>Адрес: </strong><br>{{ $contact.address }}</li>
+          {{ else }}
+          <li style="white-space: pre-wrap;"><strong>Address: </strong><br>{{ $contact.address }}</li>
+          {{ end }}
+        {{ end }}
+      </ul>
+
+      {{ if $contact.hours }}
+        {{/* Мультиязычный заголовок */}}
+        {{ if eq $lang "en" }}
+          <h4 class="mt-4">Business Hours</h4>
+        {{ else if eq $lang "ru" }}
+          <h4 class="mt-4">Часы работы</h4>
+        {{ else }}
+          <h4 class="mt-4">Hours</h4>
+        {{ end }}
+
+        <table class="table table-sm opening-hours-table">
+          {{ range $contact.hours }}
+          <tr>
+            <td class="day font-weight-bold">{{ .day }}</td>
+            <td>{{ .open }}</td>
+            <td>-</td>
+            <td>{{ .close }}</td>
+          </tr>
+          {{ end }}
+        </table>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
