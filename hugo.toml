@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 theme = 'hugo-hero-theme'
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = true
 
 [module]
