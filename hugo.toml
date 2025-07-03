@@ -1,4 +1,4 @@
-baseURL = 'http://tierracolada.ru.website.yandexcloud.net/'
+baseURL = 'https://tierracolada.ru/'
 theme = 'hugo-hero-theme'
 DefaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = true

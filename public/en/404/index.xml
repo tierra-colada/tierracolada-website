@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page Not Found on Tierra Colada</title>
-    <link>http://tierracolada.ru.website.yandexcloud.net/en/404/</link>
+    <link>https://tierracolada.ru/en/404/</link>
     <description>Recent content in Page Not Found on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://tierracolada.ru.website.yandexcloud.net/en/404/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/en/404/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Tierra Colada</title>
-    <link>http://tierracolada.ru.website.yandexcloud.net/en/services/</link>
+    <link>https://tierracolada.ru/en/services/</link>
     <description>Recent content in Services on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 Jan 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="http://tierracolada.ru.website.yandexcloud.net/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/en/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expert Consulting</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/services/consulting/</link>
+      <link>https://tierracolada.ru/en/services/consulting/</link>
       <pubDate>Sun, 05 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/services/consulting/</guid>
+      <guid>https://tierracolada.ru/en/services/consulting/</guid>
       <description>&lt;p&gt;Professional expertise in seismic imaging, machine learning, specialized software development, and advanced visualization helps companies tackle complex technological challenges and optimize exploration and production processes. Deep knowledge in seismic data processing, velocity model building, and artificial intelligence enables uncovering non-obvious solutions to enhance interpretation accuracy and reduce operational risks.&lt;/p&gt;&#xA;&lt;p&gt;Expert services include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Audit of existing technological processes and recommendations for improvement&lt;/li&gt;&#xA;&lt;li&gt;🔹 Development of custom algorithms for geoscience data processing and analysis&lt;/li&gt;&#xA;&lt;li&gt;🔹 Workflow optimization through ML model implementation and automation of routine operations&lt;/li&gt;&#xA;&lt;li&gt;🔹 Creation of specialized web applications and platforms for complex data visualization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Expertise Areas&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Subsurface Imaging</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/services/subsurface-imaging/</link>
+      <link>https://tierracolada.ru/en/services/subsurface-imaging/</link>
       <pubDate>Sat, 04 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/services/subsurface-imaging/</guid>
+      <guid>https://tierracolada.ru/en/services/subsurface-imaging/</guid>
       <description>&lt;p&gt;Cutting-edge seismic data processing algorithms deliver detailed subsurface visualization with unprecedented accuracy. The combined application of seismic tomography, full waveform inversion (FWI), reverse time migration (RTM), and least squares RTM (LSRTM) enables high-quality 2D and 3D imaging of geological structures.&lt;/p&gt;&#xA;&lt;p&gt;Key advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Upper layer velocity model building&lt;/li&gt;&#xA;&lt;li&gt;🔹 Velocity model refinement in complex geological environments&lt;/li&gt;&#xA;&lt;li&gt;🔹 Clear imaging of steeply dipping faults, gas hydrates, and thin-bed reservoirs&lt;/li&gt;&#xA;&lt;li&gt;🔹 Artifact reduction in low signal-to-noise ratio zones&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ML-Powered Optimization &amp; Automation</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/services/ml-optimization/</link>
+      <link>https://tierracolada.ru/en/services/ml-optimization/</link>
       <pubDate>Fri, 03 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/services/ml-optimization/</guid>
+      <guid>https://tierracolada.ru/en/services/ml-optimization/</guid>
       <description>&lt;p&gt;The use of intelligent algorithms significantly enhances the efficiency and safety of key operations in the oil and gas industry. Machine learning enables prediction of abnormally high formation pressures from seismic data, minimizes risks of drilling fluid losses through analysis of historical data and geomechanical models, and optimizes injection well parameters for reservoir pressure maintenance.&lt;/p&gt;&#xA;&lt;p&gt;ML models uncover hidden data patterns difficult to detect with conventional methods. Solutions enable:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Predicting drilling complications through integrated analysis of seismic, logging and operational parameters&lt;/li&gt;&#xA;&lt;li&gt;🔹 Overpressure zone forecasting with optimal mud weight recommendations&lt;/li&gt;&#xA;&lt;li&gt;🔹 Automated fluid loss monitoring and real-time drilling fluid optimization&lt;/li&gt;&#xA;&lt;li&gt;🔹 Calculation of ideal injection volumes for pressure maintenance&lt;/li&gt;&#xA;&lt;li&gt;🔹 Real-time anomaly detection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Integration via web interfaces ensures smooth implementation into existing workflows without major IT infrastructure changes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom Platform Development</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/services/custom-platform-development/</link>
+      <link>https://tierracolada.ru/en/services/custom-platform-development/</link>
       <pubDate>Thu, 02 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/services/custom-platform-development/</guid>
+      <guid>https://tierracolada.ru/en/services/custom-platform-development/</guid>
       <description>&lt;p&gt;Modern data processing and visualization technologies require flexible solutions that work across all operating systems. Cross-platform software with 2D/3D graphics, VR/AR support and machine learning tools accelerates prototyping of new interpretation methods and implementation of R&amp;amp;D developments into production workflows.&lt;/p&gt;&#xA;&lt;p&gt;These solutions enable:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Seismic data viewing and analysis&lt;/li&gt;&#xA;&lt;li&gt;🔹 Geological and hydrodynamic model editing in unified environment&lt;/li&gt;&#xA;&lt;li&gt;🔹 Testing new processing algorithms regardless of OS&lt;/li&gt;&#xA;&lt;li&gt;🔹 Immersive analysis in VR/AR environments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Integration with Python/Jupyter simplifies adoption of experimental methodologies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom Web Application Development</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/services/web-software-development/</link>
+      <link>https://tierracolada.ru/en/services/web-software-development/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/services/web-software-development/</guid>
+      <guid>https://tierracolada.ru/en/services/web-software-development/</guid>
       <description>&lt;p&gt;We develop turnkey web applications with enhanced visualization features — from interactive 2D dashboards to immersive 3D models with VR/AR support. Our solutions deploy on your infrastructure (SaaS) and help tackle challenges in drilling, geophysics, field monitoring, and other domains.&lt;/p&gt;&#xA;&lt;p&gt;These technologies prove particularly valuable for:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Drilling in Overpressure Zones&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 ML-based prediction of abnormally high formation pressures&lt;/li&gt;&#xA;&lt;li&gt;🔹 Visualization of forecast maps and geological models&lt;/li&gt;&#xA;&lt;li&gt;🔹 Recommendations for optimal mud weight&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Minimizing Drilling Fluid Losses&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

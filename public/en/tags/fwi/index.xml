@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FWI on Tierra Colada</title>
-    <link>http://tierracolada.ru.website.yandexcloud.net/en/tags/fwi/</link>
+    <link>https://tierracolada.ru/en/tags/fwi/</link>
     <description>Recent content in FWI on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="http://tierracolada.ru.website.yandexcloud.net/en/tags/fwi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/en/tags/fwi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seamless Integration of Surface and Borehole Data</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/vsp_model/</link>
+      <link>https://tierracolada.ru/en/work/vsp_model/</link>
       <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/vsp_model/</guid>
+      <guid>https://tierracolada.ru/en/work/vsp_model/</guid>
       <description>&lt;h2 id=&#34;modern-approach-to-seismic-data&#34;&gt;Modern Approach to Seismic Data&lt;/h2&gt;&#xA;&lt;p&gt;We modeled ideal conditions for studying salt intrusions using DAS capabilities: simultaneous surface and borehole recording.&lt;/p&gt;&#xA;&lt;h3 id=&#34;surface-seismic&#34;&gt;Surface seismic&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2201 sources at 100m spacing&lt;/li&gt;&#xA;&lt;li&gt;🔹 Receivers (50m, ±10km coverage)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;borehole-measurements-das&#34;&gt;Borehole measurements (DAS)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Continuous fiber optics (100-5000m)&lt;/li&gt;&#xA;&lt;li&gt;🔹 15m channel spacing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;joint-data-inversion&#34;&gt;Joint Data Inversion&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Automated first-break picking&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ First-arrival tomography&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ Full Waveform Inversion (FWI)&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ Reverse Time Migration (RTM)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;solutions-we-provide&#34;&gt;Solutions We Provide&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Intrusive body mapping&lt;/li&gt;&#xA;&lt;li&gt;✅ Gas hydrate detection&lt;/li&gt;&#xA;&lt;li&gt;✅ Permafrost studies&lt;/li&gt;&#xA;&lt;li&gt;✅ Velocity inversion zone analysis&lt;/li&gt;&#xA;&lt;li&gt;✅ Anisotropy investigations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Lab-Proven FWI: 3D Physical Modeling for Seismic Accuracy</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/physical-modeling/</link>
+      <link>https://tierracolada.ru/en/work/physical-modeling/</link>
       <pubDate>Tue, 01 Apr 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/physical-modeling/</guid>
+      <guid>https://tierracolada.ru/en/work/physical-modeling/</guid>
       <description>&lt;h2 id=&#34;industry-challenges-we-solve&#34;&gt;Industry Challenges We Solve&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Thin Beds Remain &amp;ldquo;Invisible&amp;rdquo;&lt;/strong&gt; – Conventional methods often miss sub-20m reservoirs&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Interpretation Errors&lt;/strong&gt; – Artifacts distort fault zone imaging&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Million-Dollar Risks&lt;/strong&gt; – Every flawed drilling decision costs operators dearly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;proven-effectiveness--by-the-numbers&#34;&gt;Proven Effectiveness – By the Numbers&lt;/h2&gt;&#xA;&lt;p&gt;We conducted groundbreaking physical modeling to demonstrate our algorithms&amp;rsquo; real-world performance&lt;/p&gt;&#xA;&lt;h3 id=&#34;simulating-complex-geology&#34;&gt;Simulating Complex Geology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Thin layers (&lt;strong&gt;down to 20m&lt;/strong&gt; scaled) – replicating challenging reservoirs&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Vertical fault networks&lt;/strong&gt; – testing against real tectonic structures&lt;/li&gt;&#xA;&lt;li&gt;🔹 Controlled environment – &lt;strong&gt;precisely calibrated input data&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cutting-edge-processing&#34;&gt;Cutting-Edge Processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;Full Waveform Inversion (FWI)&lt;/strong&gt; – velocity modeling at &lt;strong&gt;λ/8 resolution&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;(Least Squares) Reverse Time Migration (LSRTM)&lt;/strong&gt; – crisp imaging of &lt;strong&gt;steeply dipping faults&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Field Case Study: High-Frequency FWI on Viking Graben Line 12</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/viking_graben/</link>
+      <link>https://tierracolada.ru/en/work/viking_graben/</link>
       <pubDate>Sat, 01 Mar 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/viking_graben/</guid>
+      <guid>https://tierracolada.ru/en/work/viking_graben/</guid>
       <description>&lt;h2 id=&#34;key-study-highlights&#34;&gt;Key Study Highlights&lt;/h2&gt;&#xA;&lt;p&gt;We successfully applied 35Hz Full Waveform Inversion (FWI) and Least-Squares RTM to the benchmark Viking Graben Line 12 dataset - the North Sea&amp;rsquo;s classic test profile.&lt;/p&gt;&#xA;&lt;h3 id=&#34;acquisition-parameters&#34;&gt;Acquisition Parameters&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Streamer length: 3 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Profile length: 28.75 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Model depth: 4 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 3 validation wells (Well 4, 5, 7)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;breakthrough-results-with-high-frequency-fwi&#34;&gt;Breakthrough Results with High-Frequency FWI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enhanced Velocity Model Resolution&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Refractions improved shallow section (355-800m)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Reflections sharpened fault imaging (LSRTM section)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Achieved industry-leading 35Hz inversion frequency&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Well Data Validation&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Colada - Modular Platform for Geological and Geophysical Problem Solving</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/colada_app/</link>
+      <link>https://tierracolada.ru/en/work/colada_app/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/colada_app/</guid>
+      <guid>https://tierracolada.ru/en/work/colada_app/</guid>
       <description>&lt;h2 id=&#34;powerful-tool-for-data-analysis-visualization-and-interpretation&#34;&gt;Powerful Tool for Data Analysis, Visualization and Interpretation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Colada&lt;/strong&gt; is a flexible and extensible platform designed for professionals in geology, geophysics and engineering. It combines high-performance computing (FWI/RTM) with modern virtual and augmented reality (VR/AR) technologies, providing complete control over data and processes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technological-foundation&#34;&gt;Technological Foundation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 C++ core - maximum performance&lt;/li&gt;&#xA;&lt;li&gt;🔹 Full Python integration - all functionality accessible via Python scripts&lt;/li&gt;&#xA;&lt;li&gt;🔹 Cross-platform - works on Windows, Linux, macOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2D/3D graphics with VR/AR and holographic display support&lt;/li&gt;&#xA;&lt;li&gt;🔹 Data synchronization and projection for team collaboration&lt;/li&gt;&#xA;&lt;li&gt;🔹 3D printing support - creation of physical geological structure models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;flexibility-and-extensibility&#34;&gt;Flexibility and Extensibility&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Modular architecture - add new features through C++ or Python&lt;/li&gt;&#xA;&lt;li&gt;🔹 Built-in Python interpreter - work directly or via Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;🔹 GUI designer - rapid interface creation without deep programming knowledge&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-is-colada-for&#34;&gt;Who is Colada For?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ &lt;strong&gt;Geophysicists&lt;/strong&gt; - pre/post-stack data visualization&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ &lt;strong&gt;Geologists&lt;/strong&gt; - 3D reservoir model visualization and editing&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ &lt;strong&gt;Research teams&lt;/strong&gt; - R&amp;amp;D solution prototyping and implementation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

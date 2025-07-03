@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oil and Gas on Tierra Colada</title>
-    <link>http://tierracolada.ru.website.yandexcloud.net/en/tags/oil-and-gas/</link>
+    <link>https://tierracolada.ru/en/tags/oil-and-gas/</link>
     <description>Recent content in Oil and Gas on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Apr 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="http://tierracolada.ru.website.yandexcloud.net/en/tags/oil-and-gas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/en/tags/oil-and-gas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lab-Proven FWI: 3D Physical Modeling for Seismic Accuracy</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/physical-modeling/</link>
+      <link>https://tierracolada.ru/en/work/physical-modeling/</link>
       <pubDate>Tue, 01 Apr 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/physical-modeling/</guid>
+      <guid>https://tierracolada.ru/en/work/physical-modeling/</guid>
       <description>&lt;h2 id=&#34;industry-challenges-we-solve&#34;&gt;Industry Challenges We Solve&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Thin Beds Remain &amp;ldquo;Invisible&amp;rdquo;&lt;/strong&gt; – Conventional methods often miss sub-20m reservoirs&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Interpretation Errors&lt;/strong&gt; – Artifacts distort fault zone imaging&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Million-Dollar Risks&lt;/strong&gt; – Every flawed drilling decision costs operators dearly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;proven-effectiveness--by-the-numbers&#34;&gt;Proven Effectiveness – By the Numbers&lt;/h2&gt;&#xA;&lt;p&gt;We conducted groundbreaking physical modeling to demonstrate our algorithms&amp;rsquo; real-world performance&lt;/p&gt;&#xA;&lt;h3 id=&#34;simulating-complex-geology&#34;&gt;Simulating Complex Geology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Thin layers (&lt;strong&gt;down to 20m&lt;/strong&gt; scaled) – replicating challenging reservoirs&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Vertical fault networks&lt;/strong&gt; – testing against real tectonic structures&lt;/li&gt;&#xA;&lt;li&gt;🔹 Controlled environment – &lt;strong&gt;precisely calibrated input data&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cutting-edge-processing&#34;&gt;Cutting-Edge Processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;Full Waveform Inversion (FWI)&lt;/strong&gt; – velocity modeling at &lt;strong&gt;λ/8 resolution&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;(Least Squares) Reverse Time Migration (LSRTM)&lt;/strong&gt; – crisp imaging of &lt;strong&gt;steeply dipping faults&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Field Case Study: High-Frequency FWI on Viking Graben Line 12</title>
-      <link>http://tierracolada.ru.website.yandexcloud.net/en/work/viking_graben/</link>
+      <link>https://tierracolada.ru/en/work/viking_graben/</link>
       <pubDate>Sat, 01 Mar 2025 12:33:46 +1000</pubDate>
-      <guid>http://tierracolada.ru.website.yandexcloud.net/en/work/viking_graben/</guid>
+      <guid>https://tierracolada.ru/en/work/viking_graben/</guid>
       <description>&lt;h2 id=&#34;key-study-highlights&#34;&gt;Key Study Highlights&lt;/h2&gt;&#xA;&lt;p&gt;We successfully applied 35Hz Full Waveform Inversion (FWI) and Least-Squares RTM to the benchmark Viking Graben Line 12 dataset - the North Sea&amp;rsquo;s classic test profile.&lt;/p&gt;&#xA;&lt;h3 id=&#34;acquisition-parameters&#34;&gt;Acquisition Parameters&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Streamer length: 3 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Profile length: 28.75 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Model depth: 4 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 3 validation wells (Well 4, 5, 7)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;breakthrough-results-with-high-frequency-fwi&#34;&gt;Breakthrough Results with High-Frequency FWI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enhanced Velocity Model Resolution&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Refractions improved shallow section (355-800m)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Reflections sharpened fault imaging (LSRTM section)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Achieved industry-leading 35Hz inversion frequency&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Well Data Validation&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
