@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drilling on Tierra Colada</title>
-    <link>http://localhost:1313/en/tags/drilling/</link>
+    <link>https://tierracolada.ru/en/tags/drilling/</link>
     <description>Recent content in Drilling on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Feb 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/drilling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/en/tags/drilling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligent SaaS Solutions for Drilling Optimization</title>
-      <link>http://localhost:1313/en/work/custom_web_app/</link>
+      <link>https://tierracolada.ru/en/work/custom_web_app/</link>
       <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/en/work/custom_web_app/</guid>
+      <guid>https://tierracolada.ru/en/work/custom_web_app/</guid>
       <description>&lt;h2 id=&#34;web-applications-with-2d3d-visualization-for-engineering-calculations&#34;&gt;Web Applications with 2D/3D Visualization for Engineering Calculations&lt;/h2&gt;&#xA;&lt;p&gt;Our team develops cloud-based SaaS solutions for predicting critical drilling and production parameters using machine learning and advanced visualization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;challenges-we-address&#34;&gt;Challenges We Address&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Drilling fluid loss prediction&lt;/li&gt;&#xA;&lt;li&gt;✅ Identification of overpressure zones&lt;/li&gt;&#xA;&lt;li&gt;✅ Fluid injection optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-advantages-of-our-solutions&#34;&gt;Key Advantages of Our Solutions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ User-friendly web interface - access from anywhere without software installation&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ AI-powered predictions - high calculation accuracy&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ 2D/3D graphics - intuitive data representation&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ Turnkey SaaS implementation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-benefits-from-these-solutions&#34;&gt;Who Benefits from These Solutions?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Drilling engineers&lt;/strong&gt; - reduced risk of accidents&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Supervisors&lt;/strong&gt; - real-time process monitoring&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Geologists&lt;/strong&gt; - reservoir characterization analysis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Colada - Modular Platform for Geological and Geophysical Problem Solving</title>
-      <link>http://localhost:1313/en/work/colada_app/</link>
+      <link>https://tierracolada.ru/en/work/colada_app/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/en/work/colada_app/</guid>
+      <guid>https://tierracolada.ru/en/work/colada_app/</guid>
       <description>&lt;h2 id=&#34;powerful-tool-for-data-analysis-visualization-and-interpretation&#34;&gt;Powerful Tool for Data Analysis, Visualization and Interpretation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Colada&lt;/strong&gt; is a flexible and extensible platform designed for professionals in geology, geophysics and engineering. It combines high-performance computing (FWI/RTM) with modern virtual and augmented reality (VR/AR) technologies, providing complete control over data and processes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technological-foundation&#34;&gt;Technological Foundation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 C++ core - maximum performance&lt;/li&gt;&#xA;&lt;li&gt;🔹 Full Python integration - all functionality accessible via Python scripts&lt;/li&gt;&#xA;&lt;li&gt;🔹 Cross-platform - works on Windows, Linux, macOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2D/3D graphics with VR/AR and holographic display support&lt;/li&gt;&#xA;&lt;li&gt;🔹 Data synchronization and projection for team collaboration&lt;/li&gt;&#xA;&lt;li&gt;🔹 3D printing support - creation of physical geological structure models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;flexibility-and-extensibility&#34;&gt;Flexibility and Extensibility&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Modular architecture - add new features through C++ or Python&lt;/li&gt;&#xA;&lt;li&gt;🔹 Built-in Python interpreter - work directly or via Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;🔹 GUI designer - rapid interface creation without deep programming knowledge&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-is-colada-for&#34;&gt;Who is Colada For?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ &lt;strong&gt;Geophysicists&lt;/strong&gt; - pre/post-stack data visualization&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ &lt;strong&gt;Geologists&lt;/strong&gt; - 3D reservoir model visualization and editing&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ &lt;strong&gt;Research teams&lt;/strong&gt; - R&amp;amp;D solution prototyping and implementation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

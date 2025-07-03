@@ -2,362 +2,349 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/services/consulting/</loc>
+    <loc>https://tierracolada.ru/en/services/consulting/</loc>
     <lastmod>2025-01-05T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/consulting/"
+                href="https://tierracolada.ru/ru/services/consulting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/consulting/"
+                href="https://tierracolada.ru/en/services/consulting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/subsurface-imaging/</loc>
+    <loc>https://tierracolada.ru/en/services/subsurface-imaging/</loc>
     <lastmod>2025-01-04T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/subsurface-imaging/"
+                href="https://tierracolada.ru/ru/services/subsurface-imaging/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/subsurface-imaging/"
+                href="https://tierracolada.ru/en/services/subsurface-imaging/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/ml-optimization/</loc>
+    <loc>https://tierracolada.ru/en/services/ml-optimization/</loc>
     <lastmod>2025-01-03T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/ml-optimization/"
+                href="https://tierracolada.ru/ru/services/ml-optimization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/ml-optimization/"
+                href="https://tierracolada.ru/en/services/ml-optimization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/custom-platform-development/</loc>
+    <loc>https://tierracolada.ru/en/services/custom-platform-development/</loc>
     <lastmod>2025-01-02T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/custom-platform-development/"
+                href="https://tierracolada.ru/ru/services/custom-platform-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/custom-platform-development/"
+                href="https://tierracolada.ru/en/services/custom-platform-development/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/web-software-development/</loc>
+    <loc>https://tierracolada.ru/en/services/web-software-development/</loc>
     <lastmod>2025-01-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/web-software-development/"
+                href="https://tierracolada.ru/ru/services/web-software-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/web-software-development/"
+                href="https://tierracolada.ru/en/services/web-software-development/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/vsp_model/</loc>
+    <loc>https://tierracolada.ru/en/work/vsp_model/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/vsp_model/"
+                href="https://tierracolada.ru/ru/work/vsp_model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/vsp_model/"
+                href="https://tierracolada.ru/en/work/vsp_model/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/physical-modeling/</loc>
+    <loc>https://tierracolada.ru/en/work/physical-modeling/</loc>
     <lastmod>2025-04-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/physical-modeling/"
+                href="https://tierracolada.ru/ru/work/physical-modeling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/physical-modeling/"
+                href="https://tierracolada.ru/en/work/physical-modeling/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/viking_graben/</loc>
+    <loc>https://tierracolada.ru/en/work/viking_graben/</loc>
     <lastmod>2025-03-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/viking_graben/"
+                href="https://tierracolada.ru/ru/work/viking_graben/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/viking_graben/"
+                href="https://tierracolada.ru/en/work/viking_graben/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/custom_web_app/</loc>
+    <loc>https://tierracolada.ru/en/work/custom_web_app/</loc>
     <lastmod>2025-02-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/custom_web_app/"
+                href="https://tierracolada.ru/ru/work/custom_web_app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/custom_web_app/"
+                href="https://tierracolada.ru/en/work/custom_web_app/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/colada_app/</loc>
+    <loc>https://tierracolada.ru/en/work/colada_app/</loc>
     <lastmod>2025-01-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/colada_app/"
+                href="https://tierracolada.ru/ru/work/colada_app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/colada_app/"
+                href="https://tierracolada.ru/en/work/colada_app/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://tierracolada.ru/en/pages/</loc>
     <lastmod>2025-12-06T09:29:16+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/about/"
+                href="https://tierracolada.ru/ru/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://tierracolada.ru/en/pages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/pages/</loc>
-    <lastmod>2025-12-06T09:29:16+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/ru/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/pages/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/das/</loc>
+    <loc>https://tierracolada.ru/en/tags/das/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/das/"
+                href="https://tierracolada.ru/ru/tags/das/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/das/"
+                href="https://tierracolada.ru/en/tags/das/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/fwi/</loc>
+    <loc>https://tierracolada.ru/en/tags/fwi/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/fwi/"
+                href="https://tierracolada.ru/ru/tags/fwi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/fwi/"
+                href="https://tierracolada.ru/en/tags/fwi/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/geophysics/</loc>
+    <loc>https://tierracolada.ru/en/tags/geophysics/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/oil--gas/</loc>
+    <loc>https://tierracolada.ru/en/tags/oil--gas/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/rtm/</loc>
+    <loc>https://tierracolada.ru/en/tags/rtm/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/rtm/"
+                href="https://tierracolada.ru/ru/tags/rtm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/rtm/"
+                href="https://tierracolada.ru/en/tags/rtm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/seismic-exploration/</loc>
+    <loc>https://tierracolada.ru/en/tags/seismic-exploration/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://tierracolada.ru/en/tags/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://tierracolada.ru/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://tierracolada.ru/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/vsp/</loc>
+    <loc>https://tierracolada.ru/en/tags/vsp/</loc>
     <lastmod>2025-05-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/oil-and-gas/</loc>
+    <loc>https://tierracolada.ru/en/tags/oil-and-gas/</loc>
     <lastmod>2025-04-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/seismic/</loc>
+    <loc>https://tierracolada.ru/en/tags/seismic/</loc>
     <lastmod>2025-04-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://tierracolada.ru/en/contact/</loc>
     <lastmod>2025-02-22T17:01:34+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/contact/"
+                href="https://tierracolada.ru/ru/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="https://tierracolada.ru/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://tierracolada.ru/en/</loc>
     <lastmod>2025-02-12T15:37:57+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="https://tierracolada.ru/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://tierracolada.ru/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/services/</loc>
+    <loc>https://tierracolada.ru/en/services/</loc>
     <lastmod>2025-02-10T11:52:18+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/services/"
+                href="https://tierracolada.ru/ru/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/services/"
+                href="https://tierracolada.ru/en/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/work/</loc>
+    <loc>https://tierracolada.ru/en/work/</loc>
     <lastmod>2025-02-10T11:52:18+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/work/"
+                href="https://tierracolada.ru/ru/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/work/"
+                href="https://tierracolada.ru/en/work/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/404/</loc>
+    <loc>https://tierracolada.ru/en/404/</loc>
     <lastmod>2025-02-10T10:52:03+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/404/"
+                href="https://tierracolada.ru/ru/404/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/404/"
+                href="https://tierracolada.ru/en/404/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/app/</loc>
+    <loc>https://tierracolada.ru/en/tags/app/</loc>
     <lastmod>2025-02-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/app/"
+                href="https://tierracolada.ru/ru/tags/app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/app/"
+                href="https://tierracolada.ru/en/tags/app/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/drilling/</loc>
+    <loc>https://tierracolada.ru/en/tags/drilling/</loc>
     <lastmod>2025-02-01T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/tags/gui/</loc>
-    <lastmod>2025-02-01T12:33:46+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/ru/tags/gui/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/gui/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/visualization/</loc>
+    <loc>https://tierracolada.ru/en/tags/gui/</loc>
     <lastmod>2025-02-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/visualization/"
+                href="https://tierracolada.ru/ru/tags/gui/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/visualization/"
+                href="https://tierracolada.ru/en/tags/gui/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/web/</loc>
+    <loc>https://tierracolada.ru/en/tags/visualization/</loc>
     <lastmod>2025-02-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/web/"
+                href="https://tierracolada.ru/ru/tags/visualization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/web/"
+                href="https://tierracolada.ru/en/tags/visualization/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://tierracolada.ru/en/tags/web/</loc>
+    <lastmod>2025-02-01T12:33:46+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="https://tierracolada.ru/ru/tags/web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://tierracolada.ru/en/tags/web/"
+                />
+  </url><url>
+    <loc>https://tierracolada.ru/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tierracolada.ru/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tierracolada.ru/en/categories/"
                 />
   </url>
 </urlset>
