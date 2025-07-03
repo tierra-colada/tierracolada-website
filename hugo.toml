@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir = true
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
-    
+
 [params]
   google_analytics_id=""
 
@@ -88,6 +88,12 @@ defaultContentLanguageInSubdir = true
         url = "/ru/contact/"
         weight = 4
 
+# to be able generate html from .md with html code (pages)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+  pages = "/:contentbasename/"
