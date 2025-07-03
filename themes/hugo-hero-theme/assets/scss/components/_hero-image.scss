@@ -69,4 +69,5 @@
 // Enable smooth scrolling (on hero-down click)
 html {
  scroll-behavior: smooth;
+//  font-size: 16px;   // defines relative font for the `rem` units (2rem = 2* html { font-size } )
 }

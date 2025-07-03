@@ -6,14 +6,18 @@ button: 'Our Work'
 buttonLink: 'en/work'
 ---
 
-### Seismic & Exploration Solutions
+#### High-Resolution Seismic Imaging
 
-- **Software Development** - Advanced Data Visualization
+--- Tomography, FWI
 
-- **High-Resolution Seismic Imaging** (Tomography, FWI, RTM)
+#### AI-Driven Drilling Optimization
 
-- **AI-Driven Drilling Optimization** (ML-based risk prediction & decision support)
+--- ML-based risk prediction & decision support
 
-- **Custom 3D Visualization Software** (Interactive models, VR/AR, real-time dashboards)
+#### 3D Visualization Software
 
-- **Geoscience Expertise & Consulting** (Workflow optimization, technical audits, R&D support)
+--- Interactive models, VR/AR, real-time dashboards
+
+#### Geoscience Expertise & Consulting
+
+--- Workflow optimization, technical audits, R&D support

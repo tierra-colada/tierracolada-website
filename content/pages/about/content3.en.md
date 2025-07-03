@@ -8,12 +8,12 @@ button: 'Contact Us'
 buttonLink: 'en/contact'
 ---
 
-We welcome collaboration and value your perspective. What drives us:  
+We welcome collaboration and value your perspective. What drives us:
 
-- **Expert feedback** – helps refine our algorithms and workflows  
+- **Co-innovation** – from R&D to field-scale implementation
 
-- **Joint initiatives** – from R&D to field-scale implementation  
+- **Expert feedback** – helps refine our algorithms and workflows
 
-- **Constructive critique** – the cornerstone of robust solutions  
+- **Open dialogue** – co-creating optimal solutions together
 
 *Let’s discuss your vision – from concept to operational reality.*

@@ -6,12 +6,12 @@ background: 'images/about-innovation-roadmap.png'
 align: left
 ---
 
-We're advancing three transformative focus areas:  
+We're advancing three transformative focus areas:
 
-- **Elastic FWI Implementation:** shifting from acoustic to full elastic waveform inversion to properly model shear waves
+- **Elastic FWI Implementation:** shifting from acoustic to full elastic waveform inversion to properlymodel shear waves
 
-- **Software Engineering:** developing intuitive yet powerful tools adaptable to any infrastructure environment
+- **Software Engineering:** developing intuitive yet powerful tools adaptable to any infrastructureenvironment
 
-- **AI/ML Integration:** building machine learning competencies to automate workflows and accelerate processing
+- **AI/ML Integration:** building machine learning competencies to automate workflows and accelerateprocessing
 
 *Our mission: Transform cutting-edge research into your everyday operational tools.*
