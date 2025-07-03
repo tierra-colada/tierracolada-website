@@ -8,11 +8,11 @@ heroBackground: 'images/sakhalin-background.png'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/en/pages/about" "content1" >}}
 </div>
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/en/pages/about" "content2" >}}
 </div>
 <div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/en/pages/about" "content3" >}}
 </div>
