@@ -6,7 +6,7 @@
     <description>Recent content in Home on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 12:33:46 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 09:29:16 +1000</lastBuildDate>
     <atom:link href="https://tierracolada.ru/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expert Consulting</title>
@@ -77,6 +77,13 @@
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
       <guid>https://tierracolada.ru/en/work/colada_app/</guid>
       <description>&lt;h2 id=&#34;powerful-tool-for-data-analysis-visualization-and-interpretation&#34;&gt;Powerful Tool for Data Analysis, Visualization and Interpretation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Colada&lt;/strong&gt; is a flexible and extensible platform designed for professionals in geology, geophysics and engineering. It combines high-performance computing (FWI/RTM) with modern virtual and augmented reality (VR/AR) technologies, providing complete control over data and processes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technological-foundation&#34;&gt;Technological Foundation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 C++ core - maximum performance&lt;/li&gt;&#xA;&lt;li&gt;🔹 Full Python integration - all functionality accessible via Python scripts&lt;/li&gt;&#xA;&lt;li&gt;🔹 Cross-platform - works on Windows, Linux, macOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2D/3D graphics with VR/AR and holographic display support&lt;/li&gt;&#xA;&lt;li&gt;🔹 Data synchronization and projection for team collaboration&lt;/li&gt;&#xA;&lt;li&gt;🔹 3D printing support - creation of physical geological structure models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;flexibility-and-extensibility&#34;&gt;Flexibility and Extensibility&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Modular architecture - add new features through C++ or Python&lt;/li&gt;&#xA;&lt;li&gt;🔹 Built-in Python interpreter - work directly or via Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;🔹 GUI designer - rapid interface creation without deep programming knowledge&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-is-colada-for&#34;&gt;Who is Colada For?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ &lt;strong&gt;Geophysicists&lt;/strong&gt; - pre/post-stack data visualization&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ &lt;strong&gt;Geologists&lt;/strong&gt; - 3D reservoir model visualization and editing&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ &lt;strong&gt;Research teams&lt;/strong&gt; - R&amp;amp;D solution prototyping and implementation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://tierracolada.ru/en/about/</link>
+      <pubDate>Sat, 06 Dec 2025 09:29:16 +1000</pubDate>
+      <guid>https://tierracolada.ru/en/about/</guid>
+      <description>&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
