@@ -2,7 +2,7 @@
 title: 'Lab-Proven FWI: 3D Physical Modeling for Seismic Accuracy'
 tags: ["geophysics", "FWI", "RTM", "seismic", "oil and gas"]
 date: 2025-04-01T12:33:46+10:00
-draft: false
+draft: true
 weight: 2
 heroHeading: 'Lab-Proven FWI: 3D Physical Modeling for Seismic Accuracy'
 heroSubHeading: 'From lab to field: Proven seismic solutions'
