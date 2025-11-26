@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oil and Gas on Tierra Colada</title>
-    <link>https://tierracolada.ru/en/tags/oil-and-gas/</link>
+    <link>http://localhost:1313/en/tags/oil-and-gas/</link>
     <description>Recent content in Oil and Gas on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Mar 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="https://tierracolada.ru/en/tags/oil-and-gas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/oil-and-gas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Field Case Study: High-Frequency FWI on Viking Graben Line 12</title>
-      <link>https://tierracolada.ru/en/work/viking_graben/</link>
+      <link>http://localhost:1313/en/work/viking_graben/</link>
       <pubDate>Sat, 01 Mar 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/en/work/viking_graben/</guid>
+      <guid>http://localhost:1313/en/work/viking_graben/</guid>
       <description>&lt;h2 id=&#34;key-study-highlights&#34;&gt;Key Study Highlights&lt;/h2&gt;&#xA;&lt;p&gt;We successfully applied 35Hz Full Waveform Inversion (FWI) and Least-Squares RTM to the benchmark Viking Graben Line 12 dataset - the North Sea&amp;rsquo;s classic test profile.&lt;/p&gt;&#xA;&lt;h3 id=&#34;acquisition-parameters&#34;&gt;Acquisition Parameters&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Streamer length: 3 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Profile length: 28.75 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 Model depth: 4 km&lt;/li&gt;&#xA;&lt;li&gt;🔹 3 validation wells (Well 4, 5, 7)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;breakthrough-results-with-high-frequency-fwi&#34;&gt;Breakthrough Results with High-Frequency FWI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enhanced Velocity Model Resolution&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Refractions improved shallow section (355-800m)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Reflections sharpened fault imaging (LSRTM section)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Achieved industry-leading 35Hz inversion frequency&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Well Data Validation&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

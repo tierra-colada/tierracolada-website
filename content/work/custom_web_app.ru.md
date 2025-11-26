@@ -8,7 +8,7 @@ heroHeading: 'Интеллектуальные SaaS-решения для опт
 heroSubHeading: 'WEB Технологии'
 heroBackground: 'images/work/custom_web_app/custom_web_app.png'
 thumbnail: 'images/work/custom_web_app/custom_web_app.png'
-images: ['images/work/custom_web_app/custom_web_app.png']
+images: ['images/work/custom_web_app/custom_web_app.png', 'images/work/custom_web_app/drillplanrisk_certificate.png']
 ---
 
 ## Веб-приложения с 2D/3D визуализацией для инженерных расчетов

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ВСП on Тьерра Колада</title>
-    <link>https://tierracolada.ru/ru/tags/%D0%B2%D1%81%D0%BF/</link>
+    <link>http://localhost:1313/ru/tags/%D0%B2%D1%81%D0%BF/</link>
     <description>Recent content in ВСП on Тьерра Колада</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 01 May 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="https://tierracolada.ru/ru/tags/%D0%B2%D1%81%D0%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%B2%D1%81%D0%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Бесшовная интеграция наземных и скважинных данных</title>
-      <link>https://tierracolada.ru/ru/work/vsp_model/</link>
+      <link>http://localhost:1313/ru/work/vsp_model/</link>
       <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/work/vsp_model/</guid>
+      <guid>http://localhost:1313/ru/work/vsp_model/</guid>
       <description>&lt;h2 id=&#34;современный-взгляд-на-сейсмические-данные&#34;&gt;Современный взгляд на сейсмические данные&lt;/h2&gt;&#xA;&lt;p&gt;Мы смоделировали идеальные условия для исследования соляных интрузий с учетом возможностей DAS: одновременная регистрация на поверхности и в скважине.&lt;/p&gt;&#xA;&lt;h3 id=&#34;наземная-сейсмика&#34;&gt;Наземная сейсмика&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 201 источник с шагом 100 м&lt;/li&gt;&#xA;&lt;li&gt;🔹 Приемники (50 м, ±10 км)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;скважинные-измерения-das&#34;&gt;Скважинные измерения (DAS)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Непрерывное оптоволокно (100-5000 м)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Шаг каналов - 15 м&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;инверсия-совместных-данных&#34;&gt;Инверсия совместных данных&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Автоматическая пикировка первых вступлений&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ Томография первых вступлений&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ Full Waveform Inversion (FWI)&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ Reverse Time Migration (RTM)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;решаемые-задачи&#34;&gt;Решаемые задачи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Картирование интрузивных тел&lt;/li&gt;&#xA;&lt;li&gt;✅ Обнаружение газогидратов&lt;/li&gt;&#xA;&lt;li&gt;✅ Изучение мерзлых толщ&lt;/li&gt;&#xA;&lt;li&gt;✅ Анализ зон инверсии скоростей&lt;/li&gt;&#xA;&lt;li&gt;✅ Изучения анизотропии&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

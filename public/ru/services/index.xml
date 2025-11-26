@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Услуги on Тьерра Колада</title>
-    <link>https://tierracolada.ru/ru/services/</link>
+    <link>http://localhost:1313/ru/services/</link>
     <description>Recent content in Услуги on Тьерра Колада</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 05 Jan 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="https://tierracolada.ru/ru/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Экспертиза</title>
-      <link>https://tierracolada.ru/ru/services/consulting/</link>
+      <link>http://localhost:1313/ru/services/consulting/</link>
       <pubDate>Sun, 05 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/services/consulting/</guid>
+      <guid>http://localhost:1313/ru/services/consulting/</guid>
       <description>&lt;p&gt;Профессиональная экспертиза в сфере построения сейсмических изображений, машинного обучения, разработки специализированного ПО и продвинутой визуализации помогает компаниям решать сложные технологические задачи и оптимизировать процессы разведки и добычи. Глубокие знания в обработке сейсмических данных, построении скоростных моделей и применении искусственного интеллекта позволяют находить неочевидные решения для повышения точности интерпретации и снижения операционных рисков.&lt;/p&gt;&#xA;&lt;p&gt;Экспертные услуги включают:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Аудит существующих технологических процессов и рекомендации по их улучшению&lt;/li&gt;&#xA;&lt;li&gt;🔹 Разработку индивидуальных алгоритмов для обработки и анализа геолого-геофизических данных&lt;/li&gt;&#xA;&lt;li&gt;🔹 Оптимизацию рабочих процессов за счет внедрения ML-моделей и автоматизации рутинных операций&lt;/li&gt;&#xA;&lt;li&gt;🔹 Создание специализированных веб-приложений и платформ для визуализации сложных данных&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ключевые направления экспертизы&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Построение сейсмических изображений</title>
-      <link>https://tierracolada.ru/ru/services/subsurface-imaging/</link>
+      <link>http://localhost:1313/ru/services/subsurface-imaging/</link>
       <pubDate>Sat, 04 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/services/subsurface-imaging/</guid>
+      <guid>http://localhost:1313/ru/services/subsurface-imaging/</guid>
       <description>&lt;p&gt;Передовые алгоритмы обработки сейсмических данных обеспечивают детализированную визуализацию строения недр с беспрецедентной точностью. Комбинация методов сейсмической томографии, полноволноформовой инверсии (FWI), миграции в обратном времени (RTM) и миграции методом наименьших квадратов (LSRTM) позволяет получать высококачественные 2D и 3D изображения геологических структур.&lt;/p&gt;&#xA;&lt;p&gt;Ключевые преимущества:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Построение моделей ВЧР&lt;/li&gt;&#xA;&lt;li&gt;🔹 Уточнение скоростных моделей в сложных геологических условиях&lt;/li&gt;&#xA;&lt;li&gt;🔹 Четкое отображение крутопадающих разломов, газогидратов и тонкослоистых коллекторов&lt;/li&gt;&#xA;&lt;li&gt;🔹 Минимизация артефактов в зонах с низким сигнал-шумным соотношением&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Технологический стек&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Оптимизация процессов с помощью ML</title>
-      <link>https://tierracolada.ru/ru/services/ml-optimization/</link>
+      <link>http://localhost:1313/ru/services/ml-optimization/</link>
       <pubDate>Fri, 03 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/services/ml-optimization/</guid>
+      <guid>http://localhost:1313/ru/services/ml-optimization/</guid>
       <description>&lt;p&gt;Использование интеллектуальных алгоритмов позволяет существенно повысить эффективность и безопасность ключевых операций в нефтегазовой отрасли. Машинное обучение дает возможность прогнозировать аномально высокие пластовые давления (АВПД) по данным сейсморазведки, минимизировать риски поглощения бурового раствора за счет анализа исторических данных и геомеханических моделей, а также оптимизировать режимы закачки в нагнетательные скважины для поддержания пластового давления.&lt;/p&gt;&#xA;&lt;p&gt;Применение ML-моделей выявляет скрытые зависимости в данных, которые трудно обнаружить традиционными методами. Решения позволяют:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Предсказывать осложнения при бурении на основе комплексного анализа сейсмических, каротажных и технологических параметров&lt;/li&gt;&#xA;&lt;li&gt;🔹 Прогнозирование зон АВПД и рекомендации по выбору оптимальной плотности бурового раствора&lt;/li&gt;&#xA;&lt;li&gt;🔹 Автоматический мониторинг поглощений и рекомендации по составу раствора&lt;/li&gt;&#xA;&lt;li&gt;🔹 Расчет оптимальных объемов закачки для нагнетательных скважин&lt;/li&gt;&#xA;&lt;li&gt;🔹 Обнаружение аномалий в режиме реального времени&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Интеграция осуществляется через веб-интерфейсы, что обеспечивает плавное внедрение в существующие рабочие процессы без необходимости масштабной перестройки ИТ-инфраструктуры.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Разработка кроссплатформенного ПО</title>
-      <link>https://tierracolada.ru/ru/services/custom-platform-development/</link>
+      <link>http://localhost:1313/ru/services/custom-platform-development/</link>
       <pubDate>Thu, 02 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/services/custom-platform-development/</guid>
+      <guid>http://localhost:1313/ru/services/custom-platform-development/</guid>
       <description>&lt;p&gt;Современные технологии обработки и визуализации данных требуют гибких решений, работающих на любых операционных системах. Кроссплатформенное ПО с поддержкой 2D/3D-графики, VR/AR и инструментами машинного обучения позволяет ускорить прототипирование новых методов интерпретации и внедрение R&amp;amp;D-разработок в производственные процессы.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Такие решения открывают возможности для:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Просмотра и анализа сейсмических данных&lt;/li&gt;&#xA;&lt;li&gt;🔹 Редактирования геологических и гидродинамических моделей в единой среде&lt;/li&gt;&#xA;&lt;li&gt;🔹 Тестирования новых алгоритмов обработки без привязки к конкретной ОС&lt;/li&gt;&#xA;&lt;li&gt;🔹 Проведения иммерсивного анализа в VR/AR-средах&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Интеграция с Python/Jupyter упрощает внедрение экспериментальных методик.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Разработка веб-приложений под ключ</title>
-      <link>https://tierracolada.ru/ru/services/web-software-development/</link>
+      <link>http://localhost:1313/ru/services/web-software-development/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/services/web-software-development/</guid>
+      <guid>http://localhost:1313/ru/services/web-software-development/</guid>
       <description>&lt;p&gt;Создаем веб-приложения под ключ с расширенными возможностями визуализации — от интерактивных 2D-графиков/дашбордов до 3D-моделей с поддержкой VR/AR. Наши решения развертываются на вашей инфраструктуре (SaaS) и помогают решать задачи в бурении, геофизике, мониторинге месторождений и других областях.&lt;/p&gt;&#xA;&lt;p&gt;Наши технологии особенно востребованы при решении сложных задач, связанных с:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Бурением в зонах АВПД&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Прогнозирование аномально высоких пластовых давлений на основе ML-анализа&lt;/li&gt;&#xA;&lt;li&gt;🔹 Визуализация прогнозных карт и геологических моделей&lt;/li&gt;&#xA;&lt;li&gt;🔹 Рекомендации по оптимальной плотности бурового раствора&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Минимизацией поглощений бурового раствора&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

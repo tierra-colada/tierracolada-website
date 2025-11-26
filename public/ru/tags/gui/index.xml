@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gui on Тьерра Колада</title>
-    <link>https://tierracolada.ru/ru/tags/gui/</link>
+    <link>http://localhost:1313/ru/tags/gui/</link>
     <description>Recent content in Gui on Тьерра Колада</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sat, 01 Feb 2025 12:33:46 +1000</lastBuildDate>
-    <atom:link href="https://tierracolada.ru/ru/tags/gui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/gui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Интеллектуальные SaaS-решения для оптимизации бурения</title>
-      <link>https://tierracolada.ru/ru/work/custom_web_app/</link>
+      <link>http://localhost:1313/ru/work/custom_web_app/</link>
       <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/work/custom_web_app/</guid>
+      <guid>http://localhost:1313/ru/work/custom_web_app/</guid>
       <description>&lt;h2 id=&#34;веб-приложения-с-2d3d-визуализацией-для-инженерных-расчетов&#34;&gt;Веб-приложения с 2D/3D визуализацией для инженерных расчетов&lt;/h2&gt;&#xA;&lt;p&gt;Наша команда разрабатывает облачные сервисы (SaaS) для прогнозирования критических параметров бурения и добычи с использованием машинного обучения и современной визуализации.&lt;/p&gt;&#xA;&lt;h2 id=&#34;решаемые-задачи&#34;&gt;Решаемые задачи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Прогноз поглощений бурового раствора&lt;/li&gt;&#xA;&lt;li&gt;✅ Выявление зон АВПД (аномально высокого пластового давления)&lt;/li&gt;&#xA;&lt;li&gt;✅ Оптимизация закачки жидкости&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;преимущества-наших-решений&#34;&gt;Преимущества наших решений&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Удобный веб-интерфейс – работа из любого места без установки ПО&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ ИИ-прогнозирование – высокая точность расчетов&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ 2D/3D-графика – наглядное отображение данных&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ SaaS-под ключ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;для-кого-эти-решения&#34;&gt;Для кого эти решения?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Инженеры по бурению&lt;/strong&gt; – снижение рисков аварий&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Супервайзеры&lt;/strong&gt; – контроль процесса в реальном времени&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Геологи&lt;/strong&gt; – анализ пластовых характеристик&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Colada — Модульная платформа для решения геолого-геофизических задач</title>
-      <link>https://tierracolada.ru/ru/work/colada_app/</link>
+      <link>http://localhost:1313/ru/work/colada_app/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>https://tierracolada.ru/ru/work/colada_app/</guid>
+      <guid>http://localhost:1313/ru/work/colada_app/</guid>
       <description>&lt;h2 id=&#34;мощный-инструмент-для-анализа-визуализации-и-интерпретации-данных&#34;&gt;Мощный инструмент для анализа, визуализации и интерпретации данных&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Colada&lt;/strong&gt; — это гибкая и расширяемая платформа, разработанная для профессионалов в области геологии, геофизики и инженерии. Она объединяет высокопроизводительные вычисления (FWI/RTM) с современными технологиями виртуальной и дополненной реальности (VR/AR), обеспечивая полный контроль над данными и процессами.&lt;/p&gt;&#xA;&lt;h2 id=&#34;технологическая-основа&#34;&gt;Технологическая основа&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Ядро на C++ — максимальная производительность&lt;/li&gt;&#xA;&lt;li&gt;🔹 Полная интеграция с Python — все функции доступны через Python-скрипты&lt;/li&gt;&#xA;&lt;li&gt;🔹 Кроссплатформенность — работает на Windows, Linux, macOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;визуализация-данных&#34;&gt;Визуализация данных&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2D/3D-графика с поддержкой VR/AR и голографических дисплеев&lt;/li&gt;&#xA;&lt;li&gt;🔹 Синхронизация и проекция данных для командной работы&lt;/li&gt;&#xA;&lt;li&gt;🔹 Поддержка 3D-печати — создание физических моделей геологических структур&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;гибкость-и-расширяемость&#34;&gt;Гибкость и расширяемость&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Модульная архитектура — добавляйте новые функции через C++ или Python&lt;/li&gt;&#xA;&lt;li&gt;🔹 Встроенный Python-интерпретатор — работайте напрямую или через Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;🔹 Конструктор интерфейсов — быстрое создание GUI без глубоких знаний программирования&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;для-кого-создана-colada&#34;&gt;Для кого создана Colada?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ &lt;strong&gt;Геофизики&lt;/strong&gt; — визуализация данных до/после суммирования&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ &lt;strong&gt;Геологи&lt;/strong&gt; — визуализация и редактирование 3D-моделей месторождения&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ &lt;strong&gt;Научные группы&lt;/strong&gt; — прототипирование и внедрение R&amp;amp;D решений&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

@@ -67,6 +67,23 @@
           {{ end }}
         </table>
       {{ end }}
+
+      <ul>
+        <li style="margin-top: 1em;">{{ $contact.shortName }}</li>
+        {{ if eq $lang "en" }}
+        <li><strong>Primary State Registration Number (OGRN)</strong>: {{ $contact.ogrn }}</li>
+        <li><strong>Taxpayer Identification Number (INN) :</strong> {{ $contact.inn }}</li>
+        <li><strong>Tax Registration Reason Code (KPP):</strong> {{ $contact.kpp }}</li>
+        {{ else if eq $lang "ru" }}
+        <li><strong>ОГРН:</strong> {{ $contact.ogrn }}</li>
+        <li><strong>ИНН:</strong> {{ $contact.inn }}</li>
+        <li><strong>КПП:</strong> {{ $contact.kpp }}</li>
+        {{ else }}
+        <li><strong>Primary State Registration Number (OGRN):</strong> {{ $contact.ogrn }}</li>
+        <li><strong>Taxpayer Identification Number (INN) :</strong> {{ $contact.inn }}</li>
+        <li><strong>Tax Registration Reason Code (KPP):</strong> {{ $contact.kpp }}</li>
+        {{ end }}
+      </ul>
     </div>
   </div>
 </div>

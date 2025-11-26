@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Tierra Colada</title>
-    <link>https://tierracolada.ru/en/pages/</link>
+    <link>http://localhost:1313/en/pages/</link>
     <description>Recent content in Pages on Tierra Colada</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Dec 2025 09:29:16 +1000</lastBuildDate>
-    <atom:link href="https://tierracolada.ru/en/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://tierracolada.ru/en/about/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Sat, 06 Dec 2025 09:29:16 +1000</pubDate>
-      <guid>https://tierracolada.ru/en/about/</guid>
+      <guid>http://localhost:1313/en/about/</guid>
       <description>&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

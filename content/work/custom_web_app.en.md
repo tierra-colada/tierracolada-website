@@ -8,7 +8,7 @@ heroHeading: 'Intelligent SaaS Solutions for Drilling Optimization'
 heroSubHeading: 'WEB Technologies'
 heroBackground: 'images/work/custom_web_app/custom_web_app.png'
 thumbnail: 'images/work/custom_web_app/custom_web_app.png'
-images: ['images/work/custom_web_app/custom_web_app.png']
+images: ['images/work/custom_web_app/custom_web_app.png', 'images/work/custom_web_app/drillplanrisk_certificate.png']
 ---
 
 ## Web Applications with 2D/3D Visualization for Engineering Calculations
