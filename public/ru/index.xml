@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Тьерра Колада</title>
-    <link>http://localhost:1313/ru/</link>
+    <link>https://tierracolada.ru/ru/</link>
     <description>Recent content in Home on Тьерра Колада</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sat, 06 Dec 2025 09:29:16 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tierracolada.ru/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Экспертиза</title>
-      <link>http://localhost:1313/ru/services/consulting/</link>
+      <link>https://tierracolada.ru/ru/services/consulting/</link>
       <pubDate>Sun, 05 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/services/consulting/</guid>
+      <guid>https://tierracolada.ru/ru/services/consulting/</guid>
       <description>&lt;p&gt;Профессиональная экспертиза в сфере построения сейсмических изображений, машинного обучения, разработки специализированного ПО и продвинутой визуализации помогает компаниям решать сложные технологические задачи и оптимизировать процессы разведки и добычи. Глубокие знания в обработке сейсмических данных, построении скоростных моделей и применении искусственного интеллекта позволяют находить неочевидные решения для повышения точности интерпретации и снижения операционных рисков.&lt;/p&gt;&#xA;&lt;p&gt;Экспертные услуги включают:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Аудит существующих технологических процессов и рекомендации по их улучшению&lt;/li&gt;&#xA;&lt;li&gt;🔹 Разработку индивидуальных алгоритмов для обработки и анализа геолого-геофизических данных&lt;/li&gt;&#xA;&lt;li&gt;🔹 Оптимизацию рабочих процессов за счет внедрения ML-моделей и автоматизации рутинных операций&lt;/li&gt;&#xA;&lt;li&gt;🔹 Создание специализированных веб-приложений и платформ для визуализации сложных данных&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ключевые направления экспертизы&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Построение сейсмических изображений</title>
-      <link>http://localhost:1313/ru/services/subsurface-imaging/</link>
+      <link>https://tierracolada.ru/ru/services/subsurface-imaging/</link>
       <pubDate>Sat, 04 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/services/subsurface-imaging/</guid>
+      <guid>https://tierracolada.ru/ru/services/subsurface-imaging/</guid>
       <description>&lt;p&gt;Передовые алгоритмы обработки сейсмических данных обеспечивают детализированную визуализацию строения недр с беспрецедентной точностью. Комбинация методов сейсмической томографии, полноволноформовой инверсии (FWI), миграции в обратном времени (RTM) и миграции методом наименьших квадратов (LSRTM) позволяет получать высококачественные 2D и 3D изображения геологических структур.&lt;/p&gt;&#xA;&lt;p&gt;Ключевые преимущества:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Построение моделей ВЧР&lt;/li&gt;&#xA;&lt;li&gt;🔹 Уточнение скоростных моделей в сложных геологических условиях&lt;/li&gt;&#xA;&lt;li&gt;🔹 Четкое отображение крутопадающих разломов, газогидратов и тонкослоистых коллекторов&lt;/li&gt;&#xA;&lt;li&gt;🔹 Минимизация артефактов в зонах с низким сигнал-шумным соотношением&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Технологический стек&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Оптимизация процессов с помощью ML</title>
-      <link>http://localhost:1313/ru/services/ml-optimization/</link>
+      <link>https://tierracolada.ru/ru/services/ml-optimization/</link>
       <pubDate>Fri, 03 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/services/ml-optimization/</guid>
+      <guid>https://tierracolada.ru/ru/services/ml-optimization/</guid>
       <description>&lt;p&gt;Использование интеллектуальных алгоритмов позволяет существенно повысить эффективность и безопасность ключевых операций в нефтегазовой отрасли. Машинное обучение дает возможность прогнозировать аномально высокие пластовые давления (АВПД) по данным сейсморазведки, минимизировать риски поглощения бурового раствора за счет анализа исторических данных и геомеханических моделей, а также оптимизировать режимы закачки в нагнетательные скважины для поддержания пластового давления.&lt;/p&gt;&#xA;&lt;p&gt;Применение ML-моделей выявляет скрытые зависимости в данных, которые трудно обнаружить традиционными методами. Решения позволяют:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Предсказывать осложнения при бурении на основе комплексного анализа сейсмических, каротажных и технологических параметров&lt;/li&gt;&#xA;&lt;li&gt;🔹 Прогнозирование зон АВПД и рекомендации по выбору оптимальной плотности бурового раствора&lt;/li&gt;&#xA;&lt;li&gt;🔹 Автоматический мониторинг поглощений и рекомендации по составу раствора&lt;/li&gt;&#xA;&lt;li&gt;🔹 Расчет оптимальных объемов закачки для нагнетательных скважин&lt;/li&gt;&#xA;&lt;li&gt;🔹 Обнаружение аномалий в режиме реального времени&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Интеграция осуществляется через веб-интерфейсы, что обеспечивает плавное внедрение в существующие рабочие процессы без необходимости масштабной перестройки ИТ-инфраструктуры.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Разработка кроссплатформенного ПО</title>
-      <link>http://localhost:1313/ru/services/custom-platform-development/</link>
+      <link>https://tierracolada.ru/ru/services/custom-platform-development/</link>
       <pubDate>Thu, 02 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/services/custom-platform-development/</guid>
+      <guid>https://tierracolada.ru/ru/services/custom-platform-development/</guid>
       <description>&lt;p&gt;Современные технологии обработки и визуализации данных требуют гибких решений, работающих на любых операционных системах. Кроссплатформенное ПО с поддержкой 2D/3D-графики, VR/AR и инструментами машинного обучения позволяет ускорить прототипирование новых методов интерпретации и внедрение R&amp;amp;D-разработок в производственные процессы.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Такие решения открывают возможности для:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Просмотра и анализа сейсмических данных&lt;/li&gt;&#xA;&lt;li&gt;🔹 Редактирования геологических и гидродинамических моделей в единой среде&lt;/li&gt;&#xA;&lt;li&gt;🔹 Тестирования новых алгоритмов обработки без привязки к конкретной ОС&lt;/li&gt;&#xA;&lt;li&gt;🔹 Проведения иммерсивного анализа в VR/AR-средах&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Интеграция с Python/Jupyter упрощает внедрение экспериментальных методик.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Разработка веб-приложений под ключ</title>
-      <link>http://localhost:1313/ru/services/web-software-development/</link>
+      <link>https://tierracolada.ru/ru/services/web-software-development/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/services/web-software-development/</guid>
+      <guid>https://tierracolada.ru/ru/services/web-software-development/</guid>
       <description>&lt;p&gt;Создаем веб-приложения под ключ с расширенными возможностями визуализации — от интерактивных 2D-графиков/дашбордов до 3D-моделей с поддержкой VR/AR. Наши решения развертываются на вашей инфраструктуре (SaaS) и помогают решать задачи в бурении, геофизике, мониторинге месторождений и других областях.&lt;/p&gt;&#xA;&lt;p&gt;Наши технологии особенно востребованы при решении сложных задач, связанных с:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Бурением в зонах АВПД&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Прогнозирование аномально высоких пластовых давлений на основе ML-анализа&lt;/li&gt;&#xA;&lt;li&gt;🔹 Визуализация прогнозных карт и геологических моделей&lt;/li&gt;&#xA;&lt;li&gt;🔹 Рекомендации по оптимальной плотности бурового раствора&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Минимизацией поглощений бурового раствора&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Бесшовная интеграция наземных и скважинных данных</title>
-      <link>http://localhost:1313/ru/work/vsp_model/</link>
+      <link>https://tierracolada.ru/ru/work/vsp_model/</link>
       <pubDate>Thu, 01 May 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/work/vsp_model/</guid>
+      <guid>https://tierracolada.ru/ru/work/vsp_model/</guid>
       <description>&lt;h2 id=&#34;современный-взгляд-на-сейсмические-данные&#34;&gt;Современный взгляд на сейсмические данные&lt;/h2&gt;&#xA;&lt;p&gt;Мы смоделировали идеальные условия для исследования соляных интрузий с учетом возможностей DAS: одновременная регистрация на поверхности и в скважине.&lt;/p&gt;&#xA;&lt;h3 id=&#34;наземная-сейсмика&#34;&gt;Наземная сейсмика&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 201 источник с шагом 100 м&lt;/li&gt;&#xA;&lt;li&gt;🔹 Приемники (50 м, ±10 км)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;скважинные-измерения-das&#34;&gt;Скважинные измерения (DAS)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Непрерывное оптоволокно (100-5000 м)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Шаг каналов - 15 м&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;инверсия-совместных-данных&#34;&gt;Инверсия совместных данных&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Автоматическая пикировка первых вступлений&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ Томография первых вступлений&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ Full Waveform Inversion (FWI)&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ Reverse Time Migration (RTM)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;решаемые-задачи&#34;&gt;Решаемые задачи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Картирование интрузивных тел&lt;/li&gt;&#xA;&lt;li&gt;✅ Обнаружение газогидратов&lt;/li&gt;&#xA;&lt;li&gt;✅ Изучение мерзлых толщ&lt;/li&gt;&#xA;&lt;li&gt;✅ Анализ зон инверсии скоростей&lt;/li&gt;&#xA;&lt;li&gt;✅ Изучения анизотропии&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Полевой пример высокочастотного FWI: Viking Graben line 12</title>
-      <link>http://localhost:1313/ru/work/viking_graben/</link>
+      <link>https://tierracolada.ru/ru/work/viking_graben/</link>
       <pubDate>Sat, 01 Mar 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/work/viking_graben/</guid>
+      <guid>https://tierracolada.ru/ru/work/viking_graben/</guid>
       <description>&lt;h2 id=&#34;ключевые-особенности-исследования&#34;&gt;Ключевые особенности исследования&lt;/h2&gt;&#xA;&lt;p&gt;Мы провели высокочастотный FWI 35 Гц и LSRTM на открытых данных Viking Graben Line 12 – классическом тестовом профиле Северного моря.&lt;/p&gt;&#xA;&lt;h3 id=&#34;основные-параметры&#34;&gt;Основные параметры&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Длина стримера: 3 км&lt;/li&gt;&#xA;&lt;li&gt;🔹 Длина профиля: 28.75 км&lt;/li&gt;&#xA;&lt;li&gt;🔹 Глубина модели: до 4 км&lt;/li&gt;&#xA;&lt;li&gt;🔹 3 скважины для валидации (Well 4, 5, 7)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;чего-мы-достигли-с-помощью-fwi&#34;&gt;Чего мы достигли с помощью FWI?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Детализировали скоростную модель&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Преломленные волны уточнили верхнюю часть разреза (355-800 м)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Отраженные волны детализировали разломы и контрастные слои (&lt;strong&gt;LSRTM&lt;/strong&gt; разрез)&lt;/li&gt;&#xA;&lt;li&gt;🔹 Достигнута частота инверсии 35Гц&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Сравнение с пробуренными скважинами&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Интеллектуальные SaaS-решения для оптимизации бурения</title>
-      <link>http://localhost:1313/ru/work/custom_web_app/</link>
+      <link>https://tierracolada.ru/ru/work/custom_web_app/</link>
       <pubDate>Sat, 01 Feb 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/work/custom_web_app/</guid>
+      <guid>https://tierracolada.ru/ru/work/custom_web_app/</guid>
       <description>&lt;h2 id=&#34;веб-приложения-с-2d3d-визуализацией-для-инженерных-расчетов&#34;&gt;Веб-приложения с 2D/3D визуализацией для инженерных расчетов&lt;/h2&gt;&#xA;&lt;p&gt;Наша команда разрабатывает облачные сервисы (SaaS) для прогнозирования критических параметров бурения и добычи с использованием машинного обучения и современной визуализации.&lt;/p&gt;&#xA;&lt;h2 id=&#34;решаемые-задачи&#34;&gt;Решаемые задачи&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ Прогноз поглощений бурового раствора&lt;/li&gt;&#xA;&lt;li&gt;✅ Выявление зон АВПД (аномально высокого пластового давления)&lt;/li&gt;&#xA;&lt;li&gt;✅ Оптимизация закачки жидкости&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;преимущества-наших-решений&#34;&gt;Преимущества наших решений&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ Удобный веб-интерфейс – работа из любого места без установки ПО&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ ИИ-прогнозирование – высокая точность расчетов&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ 2D/3D-графика – наглядное отображение данных&lt;/li&gt;&#xA;&lt;li&gt;4️⃣ SaaS-под ключ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;для-кого-эти-решения&#34;&gt;Для кого эти решения?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Инженеры по бурению&lt;/strong&gt; – снижение рисков аварий&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Супервайзеры&lt;/strong&gt; – контроль процесса в реальном времени&lt;/li&gt;&#xA;&lt;li&gt;🔹 &lt;strong&gt;Геологи&lt;/strong&gt; – анализ пластовых характеристик&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Colada — Модульная платформа для решения геолого-геофизических задач</title>
-      <link>http://localhost:1313/ru/work/colada_app/</link>
+      <link>https://tierracolada.ru/ru/work/colada_app/</link>
       <pubDate>Wed, 01 Jan 2025 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/ru/work/colada_app/</guid>
+      <guid>https://tierracolada.ru/ru/work/colada_app/</guid>
       <description>&lt;h2 id=&#34;мощный-инструмент-для-анализа-визуализации-и-интерпретации-данных&#34;&gt;Мощный инструмент для анализа, визуализации и интерпретации данных&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Colada&lt;/strong&gt; — это гибкая и расширяемая платформа, разработанная для профессионалов в области геологии, геофизики и инженерии. Она объединяет высокопроизводительные вычисления (FWI/RTM) с современными технологиями виртуальной и дополненной реальности (VR/AR), обеспечивая полный контроль над данными и процессами.&lt;/p&gt;&#xA;&lt;h2 id=&#34;технологическая-основа&#34;&gt;Технологическая основа&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Ядро на C++ — максимальная производительность&lt;/li&gt;&#xA;&lt;li&gt;🔹 Полная интеграция с Python — все функции доступны через Python-скрипты&lt;/li&gt;&#xA;&lt;li&gt;🔹 Кроссплатформенность — работает на Windows, Linux, macOS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;визуализация-данных&#34;&gt;Визуализация данных&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 2D/3D-графика с поддержкой VR/AR и голографических дисплеев&lt;/li&gt;&#xA;&lt;li&gt;🔹 Синхронизация и проекция данных для командной работы&lt;/li&gt;&#xA;&lt;li&gt;🔹 Поддержка 3D-печати — создание физических моделей геологических структур&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;гибкость-и-расширяемость&#34;&gt;Гибкость и расширяемость&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔹 Модульная архитектура — добавляйте новые функции через C++ или Python&lt;/li&gt;&#xA;&lt;li&gt;🔹 Встроенный Python-интерпретатор — работайте напрямую или через Jupyter Notebook&lt;/li&gt;&#xA;&lt;li&gt;🔹 Конструктор интерфейсов — быстрое создание GUI без глубоких знаний программирования&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;для-кого-создана-colada&#34;&gt;Для кого создана Colada?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1️⃣ &lt;strong&gt;Геофизики&lt;/strong&gt; — визуализация данных до/после суммирования&lt;/li&gt;&#xA;&lt;li&gt;2️⃣ &lt;strong&gt;Геологи&lt;/strong&gt; — визуализация и редактирование 3D-моделей месторождения&lt;/li&gt;&#xA;&lt;li&gt;3️⃣ &lt;strong&gt;Научные группы&lt;/strong&gt; — прототипирование и внедрение R&amp;amp;D решений&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/ru/about/</link>
+      <link>https://tierracolada.ru/ru/about/</link>
       <pubDate>Sat, 06 Dec 2025 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/ru/about/</guid>
+      <guid>https://tierracolada.ru/ru/about/</guid>
       <description>&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/ru/history/</link>
+      <link>https://tierracolada.ru/ru/history/</link>
       <pubDate>Sat, 06 Dec 2025 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/ru/history/</guid>
+      <guid>https://tierracolada.ru/ru/history/</guid>
       <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xD;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;&#xA;&#xD;&#xA;          &#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; /images/about-innovation-roadmap.png &#39;);&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;col-12 col-md-6 offset-md-6&#34;&gt;&#xD;&#xA;          &lt;p&gt;Мы развиваем три ключевых направления:&lt;/p&gt;</description>
     </item>
   </channel>
