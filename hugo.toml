@@ -10,6 +10,7 @@ defaultContentLanguageInSubdir = true
 
 [params]
   google_analytics_id=""
+  tawk_to_src="https://embed.tawk.to/6a1eba1570d12c1c2fdf3d9b/1jq40dosp"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
