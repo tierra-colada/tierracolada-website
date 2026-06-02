@@ -1,0 +1,30 @@
+{{ define "title" }}{{ if eq .Site.Language.Lang "ru" }}Страница не найдена{{ else }}Page not found{{ end }} - {{ .Site.Title }}{{ end }}
+{{ define "body_classes" }}page-not-found{{ end }}
+{{ define "main" }}
+<section class="container pt-9 pb-9 pt-md-13 pb-md-13">
+  <div class="row justify-content-center">
+    <div class="col-12 col-lg-8 text-center">
+      <p class="text-primary font-weight-bold mb-2">404</p>
+      {{ if eq .Site.Language.Lang "ru" }}
+        <h1 class="display-1 text-primary mb-4">Страница не найдена</h1>
+        <p class="lead mb-5">Возможно, страница была удалена, переименована или адрес был введён с ошибкой.</p>
+        <div class="d-flex flex-column flex-sm-row justify-content-center gap-2">
+          <a href="{{ .Site.Home.RelPermalink }}" class="btn btn-primary">На главную</a>
+          {{ with .Site.GetPage "contact" }}
+            <a href="{{ .RelPermalink }}" class="btn btn-outline-primary">Связаться с нами</a>
+          {{ end }}
+        </div>
+      {{ else }}
+        <h1 class="display-1 text-primary mb-4">Page not found</h1>
+        <p class="lead mb-5">The page may have been removed, renamed, or the address may have been typed incorrectly.</p>
+        <div class="d-flex flex-column flex-sm-row justify-content-center gap-2">
+          <a href="{{ .Site.Home.RelPermalink }}" class="btn btn-primary">Go home</a>
+          {{ with .Site.GetPage "contact" }}
+            <a href="{{ .RelPermalink }}" class="btn btn-outline-primary">Contact us</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
