@@ -1,7 +1,7 @@
 ---
 title: 'Results-Driven Solutions'
 weight: 1
-background: 'images/seismic-table.png'
+background: 'images/seismic-on-the-brown-table-pencil-bot.png'
 button: 'Our Work'
 buttonLink: 'en/work'
 ---

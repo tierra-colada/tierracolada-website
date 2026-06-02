@@ -1,7 +1,7 @@
 ---
 title: 'Работаем на результат'
 weight: 1
-background: 'images/seismic-table.png'
+background: 'images/seismic-on-the-brown-table-pencil-bot.png'
 button: 'Наш опыт'
 buttonLink: 'ru/work'
 ---
