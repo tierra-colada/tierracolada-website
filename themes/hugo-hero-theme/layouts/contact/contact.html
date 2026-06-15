@@ -46,28 +46,6 @@
         {{ end }}
       </ul>
 
-      {{ if $contact.hours }}
-        {{/* Мультиязычный заголовок */}}
-        {{ if eq $lang "en" }}
-          <h4 class="mt-4">Business Hours</h4>
-        {{ else if eq $lang "ru" }}
-          <h4 class="mt-4">Часы работы</h4>
-        {{ else }}
-          <h4 class="mt-4">Hours</h4>
-        {{ end }}
-
-        <table class="table table-sm opening-hours-table">
-          {{ range $contact.hours }}
-          <tr>
-            <td class="day font-weight-bold">{{ .day }}</td>
-            <td>{{ .open }}</td>
-            <td>-</td>
-            <td>{{ .close }}</td>
-          </tr>
-          {{ end }}
-        </table>
-      {{ end }}
-
       <ul>
         <li style="margin-top: 1em;">{{ $contact.shortName }}</li>
         {{ if eq $lang "en" }}
